@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Ernesto Diaz-Aviles</title>
+    <link>http://ernesto.diazaviles.com/</link>
+    <description>Recent content on Dr. Ernesto Diaz-Aviles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 bluebalam</copyright>
+    <lastBuildDate>Sun, 24 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ernesto.diazaviles.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>&#34;Living Analytics Methods for the Social Web&#34;</title>
+      <link>http://ernesto.diazaviles.com/project/living_analytics_methods_for_the_social_web/</link>
+      <pubDate>Sun, 24 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://ernesto.diazaviles.com/project/living_analytics_methods_for_the_social_web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>experience</title>
+      <link>http://ernesto.diazaviles.com/home/experience/</link>
+      <pubDate>Sun, 10 Jul 2016 19:58:47 +0100</pubDate>
+      
+      <guid>http://ernesto.diazaviles.com/home/experience/</guid>
+      <description>Co-Founder, CEO and Chief Scientist Libre AI Dublin, Ireland February 2017 – Present
+Adjunct Assistant Professor University College Dublin Dublin, Ireland September 2017 – Present
+Chief Data Scientist and VP Citi Innovation Lab Dublin, Ireland February 2016 – February 2017 (1 year 1 month)
+Research Scientist - Machine Learning &amp;amp; Data Science IBM Research Dublin, Ireland January 2014 – January 2016 (2 years 1 month)
+Lecturer in Computer Science: Machine Learning Leibniz Universität Hannover Hannover, Germany October 2013 – March 2014 (Winter Semester)</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://ernesto.diazaviles.com/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://ernesto.diazaviles.com/home/about/</guid>
+      <description>I am the Co-Founder, CEO and Chief Scientist at libre AI, whose mission is to widely disseminate the benefits of AI and ML and make them accessible to the world. I am passionate about the power of Artificial Intelligence (AI) and Machine Learning (ML) to support decision making processes. I also serve as Adjunct Assistant Professor at the University College Dublin (UCD).
+I was the Chief Data Scientist and VP at Citi&amp;rsquo;s Innovation Lab in Dublin, Ireland, and before that, I was a Research Staff Member at IBM Research - Ireland.</description>
+    </item>
+    
+  </channel>
+</rss>

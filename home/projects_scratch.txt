@@ -1,0 +1,54 @@
+projects
+
+===
+
+FizzStream
+
+Undoubtedly, analytics methods for the social web are becoming increasingly necessary to make sense out of the huge amount of user generated content and to reduce the complexity for human user understanding. FizzStream aims at laying out the foundations and developing the formalisms, techniques, and structures for effective analytics and filtering tools, aware of the social stream dynamics and big data as well as user's individual taste. The core contribution of the project is to reduce information overload and facilitate an overview of high volume and user-generated content. The outcome of FizzStream will positively impact and support the daily work for many stakeholders, for example, journalists, opinion analysts, social scientists, public safety institutions, product designers, marketers, and the general public, who increasingly rely upon continuous social streams for real-time access to fresh knowledge about current affairs, and that urgently need tools to cope efficiently with the overwhelming information flood.
+
+===
+
+M-ECO
+
+The health of a society’s individuals is not isolated from the natural environment. Symbiotically we influence and are influenced by the ecosystem.
+
+Public health officials are faced with new challenges for outbreak alert and response due to the continuous emergence of infectious diseases and their contributing factors such as demographic change, or globalization. Early reaction is necessary, but often communication and information flow through traditional channels is slow. The M-Eco – Medical Ecosystem: Personalized Event-based surveillance – project proposes a complementing way to early detection of public health threats by using additional sources of information. These days, online media, weblogs, scientific and non-scientific discussion forums and direct electronic communication provide complements to the traditional report-ing mechanisms.
+
+The research leading to these results has received funding from the European Community Seventh Framework Programme (FP7/2007-2013) under grant agreement No.247829.
+
+===
+
+The goal of the »PHAROS« project was the development of an A/V search platform based on automatic semantic tagging, including new methods for query brokerage, scheme-agnostic and content-based search, browsing, content-awareness and personalisation, spam detection and media security.
+
+the PHAROS project
+(Platform for searcH of Audiovisual Resources across
+Online Spaces) was started in January 2007, continuing
+until the end of 2009. PHAROS aims to develop
+an innovative audiovisual technology platform that
+enables consumers, businesses and organisations to
+unlock the values found in audiovisual content. 
+
+===
+DURAARK
+
+Preservation of architectural building data is crucial to suit the interests of all stakeholders (e.g. architects, engineers, building operators), for instance, to preserve cultural heritage and to enable knowledge-reuse of design and engineering solutions. The DuraArK project will tackle this challenge by developing long-term preservation tools, especially tailored to the domain of architectural knowledge, involving 3D models and point clouds as well as semantic metadata and related Web information.
+
+With the recent paradigm shift in architecture and construction from analog 2D plans and scale models to digital 3D building models, long-term preservation efforts must turn their attention to this new type of data. On the other hand, a wide range of related Web information sources have become available, providing information for instance about the history, location, context or environment of built structures. Currently, there exist no approaches able to provide a secure and efficient long-term preservation solution covering the broad spectrum of architectural knowledge, while at the same time taking into account the demands of institutional collectors like architecture libraries and archives as well as those of the private sector including building industry SMEs, owners and operators. The DuraArK project will tackle this challenge by developing long-term preservation tools that will be especially tailored to the domain of architectural 3D data. It will provide consistent and reliable metadata information about the content to ensure future-proof reusability of archived data. Additionally, it will for the first time cover and exploit the complete spectrum of representations used for architectural data, ranging from low-level 3D point clouds up to highly annotated BIM models and related semantics. Long-term OAIS compliant storage will be realized using future-proof open file standards that are already well-established in the architectural and construction community. The feasibility of the DuraArK approach will be evaluated in two use case scenarios involving an institutional collector as well as SME exploitation partners.
+===
+
+OpenScout - Skill based scouting of open user-generated and community-improved content for management education and training
+
+OpenScout stands for "Skill based scouting of open user-generated and community-improved content for management education and training".
+
+OpenScout provides education services in the internet that enable users to easily find, access, use and exchange open content for management education and training.
+
+OpenScout can be used by learners directly but also by training and education institutions that search for learning content to be integrated into their learning offerings.
+
+The management education market is largely diversified, training topics range from general management and leadership to very specific issues like managing risks in banking industry. This results in a growing need for management education and content. With OpenScout the potential of already existing open learning materials can now be fully exploited, both in the business sector and in SMEs where the need for lifelong learning is even greater.
+
+Within its portal OpenScout offers easy-to-use competence-based federated search and retrieval web services, provides an openly accessible tool library for improvement and re-publishing of open contents and establishes an open user community that opens up their content and adopts OpenScout web services in real contexts of use. Additionally, OpenScout provides a number of extensions and plug-ins that allow users to seamlessly integrate OpenScout search functionalities in their favourite learning environment like Learning Management Systems, Social Networks or mobile devices.
+
+In partnership with the European Association of Technology Enhanced Learning (EATEL) the OpenScout project has created the Special Interest Group (SIG) Open Content for Business and Management in September 2012. The main goal of the SIG is to drive and promote Open Education for the Business and Management domain also after the project's formal end. The SIG maintains and extends the successful portal, user community and services of OpenScout and aims at being the single access point for people engaged in this field.
+
+===
+
